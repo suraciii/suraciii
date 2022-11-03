@@ -6,6 +6,6 @@
 </div>
 
 - 🔭 I’m currently working on **DevOps** and **Observability**
-- 🌱 I’m currently learning **EDA**, **CloudEvents** and **[@Orleans](https://github.com/dotnet/orleans)**
+- 🌱 I’m currently learning **EDA**, **CloudEvents** and **HyperLedger Fabric**
 - 📫 How to reach me:  `SURAC#2321`@discord
 - ⚡ Fun fact: CATS ARE AMAZING🐈
