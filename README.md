@@ -5,7 +5,7 @@
   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=suraciii&layout=compact&langs_count=8&theme=radical"/>
 </div>
 
-- 🔭 I’m currently working on **DevOps** and **Observability**
-- 🌱 I’m currently learning **EDA**, **CloudEvents** and **HyperLedger Fabric**
-- 📫 How to reach me:  `SURAC#2321`@discord
+- 🔭 I’m currently working on **.NET**, **DevOps** and **Observability**
+- 🌱 I’m currently learning **Orleans**, **Temporal** and **EDA**
+- 📫 How to reach me: suraciii@outlook.com, sunfsong@wechat
 - ⚡ Fun fact: CATS ARE AMAZING🐈
